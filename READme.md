@@ -43,7 +43,7 @@ This is a data analysis project focused on understanding the key factors contrib
 - Distribution plots for age and BMI
 - ## How to Run
 
-1. Clone the repo git clone https://github.com/yourusername/asthma-data-analysis.git
+1. Clone the repo git clone https://github.com/Moazam16/asthma_data_analysis.git
 2. Install dependencies
 3. Run the notebook
    Open Asthma_Analysis.ipynb in Jupyter Notebook or any IDE.
