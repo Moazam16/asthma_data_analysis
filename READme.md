@@ -5,7 +5,7 @@ This is a data analysis project focused on understanding the key factors contrib
 ## Dataset Information
 
 - Name: synthetic_asthma_dataset.csv
-- Source: [[Kaggle](https://www.kaggle.com/](https://www.kaggle.com/datasets/miadul/asthma-synthetic-medical-dataset))
+- Source: https://www.kaggle.com/datasets/miadul/asthma-synthetic-medical-dataset
 - Rows: 1499
 - Columns: 17
 - Main Target Column: `Has_Asthma`
